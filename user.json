@@ -1,7 +1,7 @@
 {
-  "caller_screen": "",
-  "Theme": "",
-  "Ads": "",
+  "caller_screen": "1",
+  "Theme": "2",
+  "Ads": "native",
   "Ads_ID": ""
 }
 
